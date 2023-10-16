@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: beige;
+    
+}
+body{
+    background-color: black;
+    
+}
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
